@@ -1,4 +1,4 @@
-<h2> Hey there! I'm SimonzyWu.</h2>
+<h2> Hey there! I'm SimonWuzy.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -40,9 +40,9 @@
 
 <br/>
 
-<a href="https://github.com/SimonzyWu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimonzyWu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonzyWu&theme=buefy&layout=compact" />
+<a href="https://github.com/SimonWuzy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimonWuzy&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWuzy&theme=buefy&layout=compact" />
 </a>
 
 <br/>
